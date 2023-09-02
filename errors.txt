@@ -1,0 +1,10 @@
+﻿I'm sorry, but errors were detected in your script. Please correct the
+errors listed below, and try again.
+
+
+File "game/script.rpy", line 105: expected expression
+    image side larkstream smile = 
+                                  ^
+
+Ren'Py Version: Ren'Py 8.1.1.23060707
+Tue Aug 29 21:19:58 2023
